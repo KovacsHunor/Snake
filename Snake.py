@@ -115,6 +115,7 @@ while run:
             menu = False
             game = True       
         pygame.display.update()
+        
     while game:
         screen.fill(black)
         Field()
